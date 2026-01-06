@@ -1,0 +1,19 @@
+# House Price Prediction - Requirements
+
+# Core Data Science Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Gradient Boosting - CatBoost (primary model)
+catboost>=1.2.0
+
+# Excel file support (for baku_coordinates.xlsx)
+openpyxl>=3.1.0
+
+# Model Persistence
+joblib>=1.3.0
+
+# Optional: Visualization (if needed)
+matplotlib>=3.7.0
+seaborn>=0.12.0

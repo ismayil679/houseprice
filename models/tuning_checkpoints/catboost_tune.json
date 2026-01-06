@@ -1,0 +1,10 @@
+{
+  "best_rmse": 36994,
+  "best_params": {
+    "iterations": 10000,
+    "learning_rate": 0.03,
+    "depth": 8,
+    "l2_leaf_reg": 5
+  },
+  "trials": 1
+}

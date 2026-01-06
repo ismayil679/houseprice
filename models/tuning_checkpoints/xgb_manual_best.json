@@ -1,0 +1,10 @@
+{
+  "name": "LR=0.02+Depth=10",
+  "rmse": 36026.05383297316,
+  "params": {
+    "learning_rate": 0.02,
+    "max_depth": 10,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8
+  }
+}

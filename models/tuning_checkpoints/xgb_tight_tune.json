@@ -1,0 +1,12 @@
+{
+  "best_rmse": 36224.72804410305,
+  "best_params": {
+    "n_estimators": 10000,
+    "early_stopping_rounds": 200,
+    "learning_rate": 0.03,
+    "max_depth": 8,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8
+  },
+  "trials": 1
+}

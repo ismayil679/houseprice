@@ -1,0 +1,37 @@
+{
+  "results": [
+    {
+      "name": "baseline",
+      "rmse": 36186.275970656476,
+      "fold_scores": [
+        34846.20769841214,
+        34397.27013381715,
+        37407.120565503414,
+        36266.58009950554,
+        37884.719348392995
+      ],
+      "params": {
+        "learning_rate": 0.03,
+        "num_leaves": 197,
+        "max_depth": 10,
+        "min_child_samples": 11,
+        "subsample": 0.89,
+        "colsample_bytree": 0.74,
+        "reg_alpha": 0.81,
+        "reg_lambda": 4.55
+      }
+    }
+  ],
+  "best_idx": 0,
+  "best_rmse": 36186.275970656476,
+  "best_params": {
+    "learning_rate": 0.03,
+    "num_leaves": 197,
+    "max_depth": 10,
+    "min_child_samples": 11,
+    "subsample": 0.89,
+    "colsample_bytree": 0.74,
+    "reg_alpha": 0.81,
+    "reg_lambda": 4.55
+  }
+}

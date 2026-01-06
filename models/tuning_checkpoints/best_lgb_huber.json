@@ -1,0 +1,14 @@
+{
+  "best_rmse": 35969,
+  "objective": "huber",
+  "params": {
+    "learning_rate": 0.02,
+    "num_leaves": 197,
+    "max_depth": 12,
+    "min_child_samples": 11,
+    "subsample": 0.89,
+    "colsample_bytree": 0.74,
+    "reg_alpha": 0.81,
+    "reg_lambda": 4.55
+  }
+}
